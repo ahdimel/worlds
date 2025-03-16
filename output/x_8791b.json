@@ -1,0 +1,16 @@
+{
+    "name": "x_8791b",
+    "radius_earth": 1.05,
+    "mass_earth": 6.08,
+    "orbital_distance_au": 0.504,
+    "insolation_earth": 0.89,
+    "atmosphere_pressure_atm": 0.73,
+    "composition": {
+        "Nitrogen": 62.2,
+        "Oxygen": 22.3,
+        "Carbon Dioxide": 3.93,
+        "Methane": 0.53
+    },
+    "temperature_kelvin": 301.0,
+    "gravity_g": 1.77
+}
